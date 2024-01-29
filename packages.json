@@ -1,0 +1,22 @@
+[
+    {
+        "package": "dodgr",
+        "url": "https://github.com/UrbanAnalyst/dodgr"
+    },
+    {
+        "package": "gtfsrouter",
+        "url": "https://github.com/UrbanAnalyst/gtfs-router"
+    },
+    {
+        "package": "m4ra",
+        "url": "https://github.com/UrbanAnalyst/m4ra"
+    },
+    {
+        "package": "ttcalib",
+        "url": "https://github.com/UrbanAnalyst/ttcalib"
+    },
+    {
+        "package": "uaengine",
+        "url": "https://github.com/UrbanAnalyst/uaengine"
+    },
+]
