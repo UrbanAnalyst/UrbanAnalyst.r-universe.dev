@@ -18,5 +18,17 @@
     {
         "package": "uaengine",
         "url": "https://github.com/UrbanAnalyst/uaengine"
+    },
+    {
+        "package": "spatialcluster",
+        "url": "https://github.com/UrbanAnalyst/spatialcluster"
+    },
+    {
+        "package": "neighbourhoods",
+        "url": "https://github.com/UrbanAnalyst/neighbourhoods"
+    },
+    {
+        "package": "us-hardship-index",
+        "url": "https://github.com/UrbanAnalyst/us-hardship-index"
     }
 ]
